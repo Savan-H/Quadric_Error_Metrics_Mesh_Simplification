@@ -6,9 +6,9 @@ x64 Windows OS
 
 ## Installation
 
-1) Browse to "MeshSimplification/x64"
-2) Download "Release.zip"
-3) Extract the zip file and run "MeshSimplification.exe"
+1) Click on "Release" in the Releases section
+2) Download and extract "Release.zip"
+3) Run "MeshSimplification.exe"
 
 ## Controls
 
